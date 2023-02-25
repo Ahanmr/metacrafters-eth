@@ -1,6 +1,6 @@
 pragma solidity ^0.8.0;
 
-contract SimpleContract {
+contract Contract {
     uint256 public myUint;
     int256 public myInt;
     bool public myBool;
